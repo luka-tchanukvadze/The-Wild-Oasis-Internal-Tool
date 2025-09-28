@@ -1,22 +1,18 @@
 import styled from "styled-components";
 import GlobalStyles from "./styles/GlobalStyles";
 import Input from "./ui/Input";
-
-const H1 = styled.h1`
-  font-size: 30px;
-  font-weight: 600;
-  background-color: var(--color-brand-50);
-`;
+import Heading from "./ui/Heading";
 
 function App() {
   return (
     <>
       <GlobalStyles />
-      <H1>The Wild Oasis</H1>
+      <Heading as={"h1"}>The Wild Oasis</Heading>
+      <Heading as={"h2"}>Check in and out</Heading>
+      <Heading as={"h3"}>Form</Heading>
       <Input />
     </>
   );
 }
 
 export default App;
-//hey
