@@ -36,4 +36,4 @@ function App() {
 }
 export default App;
 
-// practicing supabase: Modeling Application State
+// practicing supabase: Creating Tables
