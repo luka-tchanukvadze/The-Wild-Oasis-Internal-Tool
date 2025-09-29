@@ -36,4 +36,4 @@ function App() {
 }
 export default App;
 
-// practicing supabase: Relationships Between Tables
+// practicing supabase: Adding Security Policies (RLS)
