@@ -36,4 +36,4 @@ function App() {
 }
 export default App;
 
-// practicing supabase: Creating Tables
+// practicing supabase: Relationships Between Tables
