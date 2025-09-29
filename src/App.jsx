@@ -35,3 +35,5 @@ function App() {
   );
 }
 export default App;
+
+// practicing supabase: Creating a New Database
