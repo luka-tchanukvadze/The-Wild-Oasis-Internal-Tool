@@ -38,3 +38,16 @@ const Discount = styled.div`
   font-weight: 500;
   color: var(--color-green-700);
 `;
+
+function CabinRow({ cabin }) {
+  const { name, maxCapacity, regularPrice, discount, image } = cabin;
+  const cleanImage = image?.match(/https?:\/\/[^\s"]+/)?.[0];
+
+  console.log(cleanImage);
+  return (
+    <TableRow role="row">
+      <Img src={cleanImage} />
+    </TableRow>
+  );
+}
+export default CabinRow;
