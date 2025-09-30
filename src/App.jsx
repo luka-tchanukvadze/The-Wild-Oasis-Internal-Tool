@@ -35,5 +35,3 @@ function App() {
   );
 }
 export default App;
-
-// practicing supabase: Adding Security Policies (RLS)
