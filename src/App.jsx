@@ -69,4 +69,5 @@ function App() {
 }
 export default App;
 
-// theory lecture: An Overview of Reusability in React
+// learning theory:  Overview of Reusability in React
+// practice in code sandbox: set up
