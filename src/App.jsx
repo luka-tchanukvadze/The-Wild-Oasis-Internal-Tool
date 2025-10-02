@@ -70,4 +70,4 @@ function App() {
 export default App;
 
 // learning theory:  A Look at Higher-Order Components (HOC)
-// practice in code sandbox: The Render Props Pattern
+// practice in code sandbox: The Compound Component Pattern
