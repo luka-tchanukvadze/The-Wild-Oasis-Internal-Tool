@@ -69,5 +69,5 @@ function App() {
 }
 export default App;
 
-// learning theory:  Overview of Reusability in React
+// learning theory:  A Look at Higher-Order Components (HOC)
 // practice in code sandbox: The Render Props Pattern
