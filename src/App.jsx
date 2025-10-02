@@ -70,4 +70,4 @@ function App() {
 export default App;
 
 // learning theory:  Overview of Reusability in React
-// practice in code sandbox: set up
+// practice in code sandbox: The Render Props Pattern
